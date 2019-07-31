@@ -1,4 +1,4 @@
-image: mattiascibien/godot-docker:latest
+image: ioribranford/godot-docker:latest
 
 stages:
   - build
