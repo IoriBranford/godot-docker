@@ -2,7 +2,7 @@ FROM openjdk:8-jdk
 
 MAINTAINER IoriBranford <ioribranford@gmail.com>
 
-ARG GODOT_VERSION=3.1.2
+ARG GODOT_VERSION=3.2
 ARG GODOT_VARIANT=stable
 
 RUN echo "ipv6" >> /etc/modules \

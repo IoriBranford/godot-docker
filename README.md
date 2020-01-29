@@ -1,6 +1,6 @@
 # Minimal Godot Engine Docker image
 
-This image provides the official Linux headless builds of Godot Engine along with the official templates of version 3.1.
+This image provides the official Linux headless builds of Godot Engine and export templates up to version 3.2.
 
 The primary application is for automating Godot Engine builds.
 
