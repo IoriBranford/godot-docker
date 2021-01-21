@@ -2,7 +2,7 @@ FROM debian:stretch-slim
 
 MAINTAINER IoriBranford <ioribranford@gmail.com>
 
-ARG GODOT_VERSION=3.2.2
+ARG GODOT_VERSION=3.2.3
 ARG GODOT_VARIANT=stable
 
 RUN echo "ipv6" >> /etc/modules \

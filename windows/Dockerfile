@@ -1,7 +1,7 @@
 FROM tianon/wine:64
 MAINTAINER IoriBranford <ioribranford@gmail.com>
 
-ARG GODOT_VERSION=3.2.2
+ARG GODOT_VERSION=3.2.3
 ARG GODOT_VARIANT=stable
 ARG RCEDIT_VERSION=1.1.1
 
